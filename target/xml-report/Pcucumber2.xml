@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="206.205">
-    <testcase classname="US1003 kullanici istedigi kelime icin arama yapip, sonucu test eder" name="TC07 istenen kelimenin oldugunu test etme" time="43.472">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="210.036">
+    <testcase classname="US1003 kullanici istedigi kelime icin arama yapip, sonucu test eder" name="TC07 istenen kelimenin oldugunu test etme" time="31.427">
         <system-out>
             <![CDATA[Given kullanici "amazonUrl" sayfasina gider.................................passed
 Then "nutella" icin arama yapar.............................................passed
@@ -9,7 +9,7 @@ And sayfayi kapatir.........................................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test" time="73.857">
+    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test" time="71.147">
         <system-out>
             <![CDATA[Given kullanici "CHQAUrl" sayfasina gider...................................passed
 Then CH login linkine tiklar................................................passed
@@ -21,7 +21,7 @@ And sayfayi kapatir.........................................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test 2" time="26.168">
+    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test 2" time="25.146">
         <system-out>
             <![CDATA[Given kullanici "CHQAUrl" sayfasina gider...................................passed
 Then CH login linkine tiklar................................................passed
@@ -33,7 +33,7 @@ And sayfayi kapatir.........................................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test 3" time="24.699">
+    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test 3" time="30.954">
         <system-out>
             <![CDATA[Given kullanici "CHQAUrl" sayfasina gider...................................passed
 Then CH login linkine tiklar................................................passed
@@ -45,7 +45,7 @@ And sayfayi kapatir.........................................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test 4" time="18.195">
+    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test 4" time="34.266">
         <system-out>
             <![CDATA[Given kullanici "CHQAUrl" sayfasina gider...................................passed
 Then CH login linkine tiklar................................................passed
@@ -57,7 +57,7 @@ And sayfayi kapatir.........................................................pass
 ]]>
         </system-out>
     </testcase>
-    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test 5" time="18.171">
+    <testcase classname="US1006 concort hotels sayfasinda farkli kullanici adlari ile negative test" name="T10 Farkli kullanici isimleri ile negative test 5" time="15.6">
         <system-out>
             <![CDATA[Given kullanici "CHQAUrl" sayfasina gider...................................passed
 Then CH login linkine tiklar................................................passed
